@@ -10,6 +10,7 @@ including the **world book** (`character_book`), **regex scripts**, and
 | --- | --- |
 | `schema.sql` | SQLite schema (characters + child tables) |
 | `import_card.py` | Parses a card JSON and imports it into the database |
+| `MVU_PRINCIPLE.md` | Technical explanation of the MVU (MagVarUpdate) framework |
 | `tavern_cards.db` | The populated SQLite database |
 
 ## Usage
